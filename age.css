@@ -1,0 +1,19 @@
+body
+{
+    background-color: #1c2e4a;;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        border: 2px solid gold;
+        width: 600px;
+        height: 250px;
+        text-align: center;
+        margin: auto;
+       margin-top: 280px;
+}
+.img
+
+.btn
+{
+    position: relative;
+    top: 30px;
+}
